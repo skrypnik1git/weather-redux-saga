@@ -1,0 +1,5 @@
+export const DATA = {
+    REQUEST: 'DATA_REQUEST',
+    SUCCESS: 'DATA_SUCCESS',
+    ERROR: 'DATA_ERROR'
+}
